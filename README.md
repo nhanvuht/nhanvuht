@@ -3,7 +3,7 @@
 👋 Hi, I’m @nhanvuht <br>
 👀 I’m interested in Cloud Computing & DevOps <br>
 🌱 I’m currently learning AWS, Advanced Linux, Python Boto3, Terraform, Jenkins, Ansible <br>
-💞️ I’m looking to collaborate on Cloud Projects <br>
+💞️ I’m looking to collaborate on Cloud Projects & DevOps roles <br>
 📫 How to reach me: https://www.linkedin.com/in/nhanvuht/ <br>
 
 
