@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+👋 Hi, I’m @nhanvuht <br>
+👀 I’m interested in Cloud Computing & DevOps <br>
+🌱 I’m currently learning AWS, Advanced Linux, Python Boto3, Terraform, Jenkins, Ansible
+💞️ I’m looking to collaborate on Cloud Projects <br>
+📫 How to reach me: https://www.linkedin.com/in/nhanvuht/
+
+
 <!--
 **nhanvuht/nhanvuht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
